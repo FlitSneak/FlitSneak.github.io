@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://FlitSneak.github.io/"/>
-  <updated>2020-08-07T11:54:50.990Z</updated>
+  <updated>2020-08-08T08:54:07.760Z</updated>
   <id>http://FlitSneak.github.io/</id>
   
   <author>
@@ -15,6 +15,40 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>B</title>
+    <link href="http://FlitSneak.github.io/2020/08/08/B/"/>
+    <id>http://FlitSneak.github.io/2020/08/08/B/</id>
+    <published>2020-08-08T08:30:54.000Z</published>
+    <updated>2020-08-08T08:54:07.760Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;h2 id=&quot;观点&quot;&gt;&lt;a href=&quot;#观点&quot; class=&quot;headerlink&quot;
+        
+      
+    
+    </summary>
+    
+      <category term="生活" scheme="http://FlitSneak.github.io/categories/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="资源" scheme="http://FlitSneak.github.io/categories/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="随想" scheme="http://FlitSneak.github.io/categories/%E7%94%9F%E6%B4%BB/%E8%B5%84%E6%BA%90/%E9%9A%8F%E6%83%B3/"/>
+    
+    
+      <category term="生活" scheme="http://FlitSneak.github.io/tags/%E7%94%9F%E6%B4%BB/"/>
+    
+      <category term="资源" scheme="http://FlitSneak.github.io/tags/%E8%B5%84%E6%BA%90/"/>
+    
+      <category term="随想" scheme="http://FlitSneak.github.io/tags/%E9%9A%8F%E6%83%B3/"/>
+    
+  </entry>
   
   <entry>
     <title>Hello</title>
